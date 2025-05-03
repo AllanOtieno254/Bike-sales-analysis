@@ -1,0 +1,12 @@
+bike-sales-analysis/
+├── data/
+│   └── bike_sales_data.csv
+├── notebooks/
+│   └── Bike_sales_analysis.ipynb
+├── images/
+│   └── correlation_matrix.png
+├── outputs/
+│   └── clean_report.txt
+├── requirements.txt
+├── README.md
+└── .gitignore
